@@ -1,4 +1,4 @@
-package com.tutorial.gatewayservice;
+package evaMS.gatewayservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
